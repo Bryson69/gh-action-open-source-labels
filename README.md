@@ -2,6 +2,9 @@
 
 Template repo with docs and GitHub Actions etc, to create other projects.
 
+##  Links :
+- Discord Channel - [Join](https://discord.gg/gWwTMbuX)
+
 ## Usage
 
 ```yaml
